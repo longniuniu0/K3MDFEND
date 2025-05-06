@@ -32,9 +32,9 @@ model:./models/kairos
 
 model_name: model_name within textcnn bigru bert eann eddfn mmoe mose dualemotion stylelstm mdfend m3fend.
 
-for DTDBD running, you need to click this link: https://github.com/ningljy/DTDBD/tree/main
+For DTDBD running, you need to click this link: https://github.com/ningljy/DTDBD/tree/main
 
-Please note that you need to train both two teacher models, the way to do that you need to read DTDBD paper.
+  Please note that you need to train both two teacher models, the way to do that you need to read DTDBD paper.
 
 You can run this code through to train baseline model:
 
