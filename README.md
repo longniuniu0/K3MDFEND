@@ -28,6 +28,8 @@ dataset: the English(en) or Chinese dataset(ch1)
 
 gpu: the index of gpu you will use, default for `0`
 
+model:./models/kairos
+
 model_name: model_name within textcnn bigru bert eann eddfn mmoe mose dualemotion stylelstm mdfend m3fend.
 
 for DTDBD running, you need to click this link: https://github.com/ningljy/DTDBD/tree/main
