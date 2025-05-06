@@ -1,0 +1,1 @@
+You can download our pre-trained k3mdfend model in this link: https://pan.baidu.com/s/10_L7EJvJ5AuaaF3OTOkxcA
