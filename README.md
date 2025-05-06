@@ -39,7 +39,6 @@ Please note that you need to train both two teacher models, the way to do that y
 You can run this code through to train baseline model:
 
 ```
-python main.py --gpu 0 --lr 0.0001 --dataset ch1
+python mainCDK.py --gpu 0 --lr 0.0001 --dataset ch1
 
-```
 ## Reference
